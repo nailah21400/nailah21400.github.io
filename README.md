@@ -3,7 +3,7 @@
 ### Contact
 [email](nailahsspeaks@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nailah-smith-m-s-cf-slp-ctc-7b3161208/)	| [GitHub](https://github.com/nailah21400/nailah21400.github.io)
 
-View my CV: [2025 CV LaKeta Kemp](2025_Digital_Resume.html)
+View my CV: [2025 CV Nailah Smith](2025_Digital_Resume.html)
 
 ## Featured Projects:
 <b>Examining the correlation between rent increases, population density, and metropolitan status in selected US cities to predict the rates of unhoused people and families.</b>
